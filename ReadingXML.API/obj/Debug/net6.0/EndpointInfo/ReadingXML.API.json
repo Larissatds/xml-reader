@@ -1,0 +1,86 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ReadingXML.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Auth": {
+      "get": {
+        "tags": [
+          "Auth"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/XMLExtract/Read": {
+      "get": {
+        "tags": [
+          "XMLExtract"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/XMLExtract": {
+      "get": {
+        "tags": [
+          "XMLExtract"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLExtractRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLExtractRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLExtractRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "XMLExtractRequest": {
+        "type": "object",
+        "properties": {
+          "numeroPagina": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tamanhoPagina": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numeroNota": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

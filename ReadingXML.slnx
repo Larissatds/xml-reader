@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ReadingXML.Application/ReadingXML.Application.csproj" Id="893dd347-90f2-498b-bfe4-9bbb71811516" />
+  <Project Path="ReadingXML.Data/ReadingXML.Data.csproj" Id="11ce6c30-493a-404e-a45e-6a240b2da85f" />
+  <Project Path="ReadingXML.Domain/ReadingXML.Domain.csproj" Id="bf365c62-041a-41de-ba5d-f22116cb86ed" />
+  <Project Path="ReadingXML.IoC/ReadingXML.IoC.csproj" Id="4032f7a9-5db8-467f-9942-64bf4f395e3e" />
+  <Project Path="ReadingXML.API/ReadingXML.API.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ReadingXML.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReadingXML.Data\ReadingXML.Data.csproj" />
+    <ProjectReference Include="..\ReadingXML.Domain\ReadingXML.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

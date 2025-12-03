@@ -1,0 +1,17 @@
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Application.deps.json
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Application.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Application.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Data.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Domain.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Data.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\bin\Debug\net6.0\ReadingXML.Domain.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.csproj.AssemblyReference.cache
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.AssemblyInfoInputs.cache
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.AssemblyInfo.cs
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.csproj.CoreCompileInputs.cache
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingX.B36BFB9B.Up2Date
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\refint\ReadingXML.Application.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ReadingXML.Application.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Application\obj\Debug\net6.0\ref\ReadingXML.Application.dll

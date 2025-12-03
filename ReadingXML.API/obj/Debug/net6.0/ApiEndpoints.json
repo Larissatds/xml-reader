@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ReadingXML.API.Controller.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadingXML.API.Controller.XMLExtractController",
+    "Method": "GetAllPaged",
+    "RelativePath": "api/XMLExtract",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "xml",
+        "Type": "ReadingXML.Application.DTOs.XMLExtractRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadingXML.API.Controller.XMLExtractController",
+    "Method": "ReadXML",
+    "RelativePath": "api/XMLExtract/Read",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

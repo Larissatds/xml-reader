@@ -1,0 +1,11 @@
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\bin\Debug\net6.0\ReadingXML.Domain.deps.json
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\bin\Debug\net6.0\ReadingXML.Domain.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\bin\Debug\net6.0\ReadingXML.Domain.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.AssemblyInfoInputs.cache
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.AssemblyInfo.cs
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\refint\ReadingXML.Domain.dll
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ReadingXML.Domain.pdb
+C:\Users\LarissaSantos\Downloads\XMLReadingAPI\ReadingXML\ReadingXML.Domain\obj\Debug\net6.0\ref\ReadingXML.Domain.dll
